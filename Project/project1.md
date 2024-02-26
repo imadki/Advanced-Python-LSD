@@ -26,3 +26,4 @@ Créer une application POO qui lit des textes, détecte la langue, effectue une 
 ### Technologies et Outils Suggérés
 - Langage de Programmation : Python.
 - Outils d'Accélération : multiprocessing pour l'exécution parallèle, Numba pour la compilation JIT de fonctions critiques.
+- Modèles de Langage à Grande Échelle (LLM) : Facultatif
