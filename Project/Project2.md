@@ -23,6 +23,6 @@ Développer une application orientée objet (POO) capable de résoudre des probl
 
 ### Technologies et Outils Suggérés
 
-    - Langage de Programmation : Python, en raison de sa richesse en bibliothèques scientifiques et mathématiques comme NumPy, SciPy, SymPy pour la manipulation algébrique et calcul numérique, et Matplotlib pour la visualisation des solutions.
-    - Outils d'Accélération : Utilisation de multiprocessing pour le traitement parallèle des étapes de résolution, et Numba pour la compilation JIT des fonctions mathématiques critiques, afin d'améliorer les performances.
-    - Techniques de Modélisation Mathématique : Application de la théorie des graphes pour modéliser des problèmes complexes et de l'optimisation pour améliorer les algorithmes de résolution.
+- Langage de Programmation : Python, en raison de sa richesse en bibliothèques scientifiques et mathématiques comme NumPy, SciPy, SymPy pour la manipulation algébrique et calcul numérique, et Matplotlib pour la visualisation des solutions.
+- Outils d'Accélération : Utilisation de multiprocessing pour le traitement parallèle des étapes de résolution, et Numba pour la compilation JIT des fonctions mathématiques critiques, afin d'améliorer les performances.
+- Techniques de Modélisation Mathématique : Application de la théorie des graphes pour modéliser des problèmes complexes et de l'optimisation pour améliorer les algorithmes de résolution.
